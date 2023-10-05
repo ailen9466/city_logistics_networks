@@ -5,7 +5,7 @@ To get the result, simply run the community_detection_algo.py, and result r1 is 
 
 File community_detection_algo.py is the community detection algorithm file. 
 
-File data_city_neighbor.pkl is the binary file of two variable, one is city_neighbor, a dictionary, shows the neighbor relation of the cities, the other one is the cities' code, which could be searched online with the name "administrative division codes of the people's republic of china. URL: https://en.wikipedia.org/wiki/Administrative_division_codes_of_the_People%27s_Republic_of_China .
+File data_city_neighbor.pkl is the binary file of two variable, one is city_neighbor, a dictionary, shows the neighbor relation of the cities, the other one is the cities' code, which could be searched online with the name "administrative division codes of the People's Republic of China. URL: https://en.wikipedia.org/wiki/Administrative_division_codes_of_the_People%27s_Republic_of_China .
 
 File data_network.csv is the network data, who has 3 columns: from_city, to_city, and normalized link weight, which represent the departure, the destination, and the normalized link weight respectively.
 
